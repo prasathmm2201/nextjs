@@ -1,0 +1,18 @@
+{
+    "direction": "ltr",
+     "typography": {
+       "color": {
+         "primary": "#091B29",
+         "secondary": "#4E5A6B",
+         "tertiary": "#98A0AC",
+         "white": "#FFFFFF",
+         "selected_1": "#5078E1"
+       },
+       "fontFamily": "'NunitoSans-Regular'",
+       "status": {
+         "primary": "#5078E1",
+         "secondary": "#FF9340",
+         "tertiary": "#896DB3"
+       }
+     }
+   }
